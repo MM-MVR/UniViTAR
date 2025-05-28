@@ -1,0 +1,9 @@
+einops==0.8.0
+ninja==1.11.1.1
+numpy==1.26.4
+pillow==10.4.0
+psutil==6.0.0
+timm==1.0.14
+torch==2.2.2
+torchvision==0.17.2
+transformers==4.49.0
